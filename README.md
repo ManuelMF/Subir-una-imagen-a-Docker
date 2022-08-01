@@ -1,9 +1,10 @@
 ### DOCKERFILE Proyecto Tomcat
+#### Crear la imagen
 #### Creamos una carpeta entramos y cremaos un dockerfild con vi Dockerfile
 
 ![h7](https://user-images.githubusercontent.com/91874537/173314779-803e5162-c864-49f4-bb4b-7e5c500d4bcd.PNG)
 
-#### Rellenamos todo 
+#### Rellenamos el dockerfild
 
 ![h8](https://user-images.githubusercontent.com/91874537/173314797-82f3bdec-5655-4ace-9b0d-bfbf2ad7b574.PNG)
 
